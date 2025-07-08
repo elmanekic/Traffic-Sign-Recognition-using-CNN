@@ -81,7 +81,8 @@ The application enables users to upload a traffic sign image, which is then clas
 
 ## Demo Video
 
-A full video demonstration of the application and prediction pipeline is available.
+A full video demonstration of the application and prediction pipeline is available on this repository
+Full video presentation of the project is available here: https://drive.google.com/drive/u/0/folders/1XdYl63Je9vs2viJ5lsomXDmH52LargWX (file is too large for upload)
 
 ## Authors & Copyright
 
