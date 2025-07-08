@@ -56,7 +56,7 @@ The application enables users to upload a traffic sign image, which is then clas
 ## Application Flow
 
 1. Run the server side of the application through Google Colab
-- Open the final cell in the provided `.ipynb` file and execute it to start the server.
+    - Open the final cell in the provided `.ipynb` file and execute it to start the server.
 2.  **Upload** a traffic sign image via the Anvil UI.
 3. The image is sent to the server (Google Colab) where:
    - The image is preprocessed (resized, normalized).
