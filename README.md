@@ -4,7 +4,7 @@ This project was done as part of the *Artificial Intelligence* course at Faculty
 
 ## Project Overview
 
-This project focuses on the development of a Convolutional Neural Network (CNN)-based system for **automatic recognition and classification of traffic signs** using images. The goal is to contribute to help identify important traffic information contained in traffic signs.
+This project focuses on the development of a Convolutional Neural Network (CNN)-based system for **automatic recognition and classification of traffic signs** using images. The goal is to contribute to the improvement of traffic sign identification as an important part of Advanced Driving Assistance Systems (ADAS).
 
 The application enables users to upload a traffic sign image, which is then classified by a trained model. A **web-based interface** was built using [Anvil](https://anvil.works/) for ease of use and demonstration.
 
