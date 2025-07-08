@@ -55,12 +55,14 @@ The application enables users to upload a traffic sign image, which is then clas
 
 ## Application Flow
 
-1. **Upload** a traffic sign image via the Anvil UI.
-2. The image is sent to the server (Google Colab) where:
+1. Run the server side of the application through Google Colab
+- Open the final cell in the provided `.ipynb` file and execute it to start the server.
+2.  **Upload** a traffic sign image via the Anvil UI.
+3. The image is sent to the server (Google Colab) where:
    - The image is preprocessed (resized, normalized).
    - It is passed through the trained CNN model.
    - The class is predicted with a confidence score.
-3. **Result** is displayed in the UI with the predicted sign meaning.
+4. **Result** is displayed in the UI with the predicted sign meaning.
 
 ## Results Summary
 
